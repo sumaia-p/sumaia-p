@@ -7,10 +7,12 @@ As a data scientist with 5+ years in engineering, I am excited to bring my passi
 
 ### Programming tools I'm using
 
-- 🐍 Python
+- 🐍 Python, R
 - 🐘 SQL
-- 📈 Tableau
+- 📈 Tableau, Power BI, Flourish
 - 🎈 Streamlit/Flask/Heroku
+
+ ![Sumaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumaia-p&theme=dark&show_icons=true)
 
 <br />
 
